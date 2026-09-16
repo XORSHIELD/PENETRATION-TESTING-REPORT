@@ -13,7 +13,7 @@
 
 **W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS**
 
-### 👤 Danjuma yusuf Joseph
+### 👤 Danjuma Yusuf Joseph
 **Cybersecurity Professional | Networkwalks Intern | Batch B083**
 
 ---
@@ -545,11 +545,12 @@ Evidence from the practical activities is included below.
 
 <img width="1920" height="1032" alt="6-screenshot-dnsrecon" src="https://github.com/user-attachments/assets/ede4cad2-938d-4df5-b068-c2042b972c08" />
 
+</details>
+
 <details>
 <summary><b>Maltego Results</b></summary>
 
 <img width="1920" height="1032" alt="7-screenshot-maltego" src="https://github.com/user-attachments/assets/6defd500-cbd9-4ab5-a9b3-95e97d1de247" />
-
 
 </details>
 
@@ -558,10 +559,8 @@ Evidence from the practical activities is included below.
 
 <img width="1920" height="1032" alt="8-screenshot-theHarvester" src="https://github.com/user-attachments/assets/3bcf9411-e21f-486c-94c3-ec5d8632df24" />
 
-
 </details>
 
-<details>
 
 ### 🌐 Zenmap Evidence
 
@@ -616,8 +615,9 @@ As part of the Networkwalks Academy cybersecurity training program, I completed 
 
 ### 📸 Score Evidence
 
-<img width="1365" height="753" alt="1" src="https://github.com/user-attachments/assets/0f1b4787-01ef-4d9c-baa2-ae9f6c4d6f91" />
-<img width="1365" height="766" alt="2" src="https://github.com/user-attachments/assets/58b8f42b-65f9-4d53-9dbb-2f9bdeab3d9d" />
+<img width="1909" height="701" alt="msedge_GTLiFyvtTo" src="https://github.com/user-attachments/assets/6c85cf1d-b50e-458d-a449-aa6bfd6c8302" />
+<img width="1896" height="948" alt="msedge_ksL9UOha8L" src="https://github.com/user-attachments/assets/76781e85-6345-4f7b-a4f8-26d26fbe0931" />
+
 
 
 > 🏅 **Achievement:** Successfully completed the Networkwalks Academy knowledge assessment as part of my cybersecurity training and practical learning journey.
@@ -663,13 +663,13 @@ Reporting & Remediation
 
 <div align="center">
 
-### **Alebiosu Oluwadamilare Samuel**
+### **Danjuma Yusuf Joseph**
 
-**Cybersecurity Professional | Networkwalks Intern | Batch B082**
+**Cybersecurity Professional | Networkwalks Intern | Batch B083**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alebiosu%20Oluwadamilare%20Samuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alebiosu-soc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alebiosu%20Oluwadamilare%20Samuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xorshield)
 
-[![GitHub](https://img.shields.io/badge/GitHub-cyxaviazriel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyxaviazriel)
+[![GitHub](https://img.shields.io/badge/GitHub-cyxaviazriel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xorshield)
 
 </div>
 
@@ -681,11 +681,11 @@ Reporting & Remediation
 |---|---|
 | 🏢 **Program** | Cybersecurity Program Networkwalks |
 | 📅 **Week** | Week 02 |
-| 🎓 **Batch** | B082 |
+| 🎓 **Batch** | B083 |
 | 🔐 **Project Type** | Authorized Penetration Testing Lab |
 | 🔎 **Primary Focus** | Footprinting & Network Scanning |
 | 🐉 **Primary OS** | Kali Linux |
-| 🛰️ **Scanning Tool** | Zenmap / Nmap |
+| 🛰️ **Scanning Tool** | Zenmap / Nmap theHarvester |
 | 📊 **Assessment Status** | In Progress |
 | 📁 **Repository** | GitHub |
 
@@ -699,7 +699,7 @@ Reporting & Remediation
 
 <br>
 
-*W2-PM-FINAL | Networkwalks | B082 | August 2026*
+*W2-PM-FINAL | Networkwalks | B083 | September 2026*
 
 </div>
 
