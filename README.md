@@ -503,66 +503,88 @@ Evidence from the practical activities is included below.
 <details>
 <summary><b>WHOIS Results</b></summary>
 
-<img width="1365" height="739" alt="W2-PM1-TASK 1 My results of whois" src="https://github.com/user-attachments/assets/8927b327-1393-4ab3-8a20-de59c0ef5c4f" />
+<img width="1920" height="1032" alt="1-screenshot-whois" src="https://github.com/user-attachments/assets/04012c56-289b-4e06-ad9b-0a11781014af" />
+
 
 </details>
 
 <details>
 <summary><b>WhatWeb Results</b></summary>
 
-<img width="1365" height="722" alt="W2-PM1-TASK 2 My results of whatweb" src="https://github.com/user-attachments/assets/bb95915b-224a-40bc-9999-987eb4b8148c" />
+<img width="1920" height="1032" alt="2-screenshot-whatweb" src="https://github.com/user-attachments/assets/ce3ccf52-94d1-4853-b606-4caf9a1bc741" />
+
 
 </details>
 
 <details>
 <summary><b>Nslookup Results</b></summary>
 
-<img width="1365" height="767" alt="W2-PM1-TASK 3 My results of  nslookup" src="https://github.com/user-attachments/assets/990feb97-e50c-4c36-8a19-4c1bd8a97356" />
+<img width="1920" height="1032" alt="3-screenshot-nslook" src="https://github.com/user-attachments/assets/181a2cc2-4978-4964-acdf-818a843f62b7" />
+
 
 </details>
 
 <details>
 <summary><b>cURL Results</b></summary>
 
-<img width="1365" height="716" alt="W2-PM1-TASK 4 My results of curl" src="https://github.com/user-attachments/assets/4607a39a-0273-4052-b35a-6bfa7f166a30" />
+<img width="1920" height="1032" alt="4-screenshot-curl" src="https://github.com/user-attachments/assets/1c2a6e02-2c5e-4893-80ee-d40c9d6d7758" />
+
 
 </details>
 
 <details>
 <summary><b>Wafw00f Results</b></summary>
 
-<img width="1358" height="763" alt="W2-PM1-TASK 5 My results of wafw00f" src="https://github.com/user-attachments/assets/dc1eb10b-541c-41ee-9085-40cbb5df8faa" />
+<img width="1920" height="1032" alt="5-screenshot-wafw00f" src="https://github.com/user-attachments/assets/945d638e-6c74-4dc1-adca-ed376fdfb05b" />
+
 
 </details>
 
 <details>
 <summary><b>DNSRecon Results</b></summary>
 
-<img width="1366" height="691" alt="W2-PM1-TASK 6 My results of dnsrecon" src="https://github.com/user-attachments/assets/f4a2b650-cb29-4bd0-b92f-d075065959d2" />
+<img width="1920" height="1032" alt="6-screenshot-dnsrecon" src="https://github.com/user-attachments/assets/ede4cad2-938d-4df5-b068-c2042b972c08" />
+
+<details>
+<summary><b>Maltego Results</b></summary>
+
+<img width="1920" height="1032" alt="7-screenshot-maltego" src="https://github.com/user-attachments/assets/6defd500-cbd9-4ab5-a9b3-95e97d1de247" />
+
 
 </details>
+
+<details>
+<summary><b>theHarverter Results</b></summary>
+
+<img width="1920" height="1032" alt="8-screenshot-theHarvester" src="https://github.com/user-attachments/assets/3bcf9411-e21f-486c-94c3-ec5d8632df24" />
+
+
+</details>
+
+<details>
 
 ### 🌐 Zenmap Evidence
 
 <details>
 <summary><b>Windows IP Configuration</b></summary>
 
-<img width="1365" height="722" alt="Ipconfig" src="https://github.com/user-attachments/assets/e13537ef-b8d3-48b9-8be4-4625cfcd6436" />
+<img width="1923" height="1032" alt="9-screenshot-windows-IP-configuration" src="https://github.com/user-attachments/assets/908f1048-7696-4b5c-8599-5d3dee60973c" />
+
 
 </details>
 
 <details>
 <summary><b>Zenmap Ping Scan</b></summary>
 
-_<img width="1363" height="729" alt="ping scan" src="https://github.com/user-attachments/assets/072b3373-d351-4cc3-bf7c-07ff28d1565e" />
+<img width="1920" height="1032" alt="10-screenshot-Zenmap Ping Scan" src="https://github.com/user-attachments/assets/098dbe62-0a94-4928-9b8e-2870ba74f75a" />
+
 
 </details>
 
 <details>
 <summary><b>Zenmap Host Discovery</b></summary>
 
-<img width="1365" height="764" alt="Host !" src="https://github.com/user-attachments/assets/09f07033-3c63-4247-a96e-2e94d81aee93" />
-<img width="1349" height="720" alt="Host 2" src="https://github.com/user-attachments/assets/acaa608f-1386-4436-bf70-6056808cb82d" />
+<img width="1920" height="1032" alt="11-screenshot-Zenmap-Host-Discovery" src="https://github.com/user-attachments/assets/91a8e1fc-2dc4-4ef5-9b12-5cd893d944de" />
 
 
 </details>
@@ -570,7 +592,8 @@ _<img width="1363" height="729" alt="ping scan" src="https://github.com/user-att
 <details>
 <summary><b>Zenmap Network Topology</b></summary>
 
-<img width="1365" height="727" alt="Topology" src="https://github.com/user-attachments/assets/0dd7fbe1-57f1-4086-840a-81c44cc013c8" />
+<img width="1920" height="1032" alt="12-Zenmap-Network-topology" src="https://github.com/user-attachments/assets/cf0cd342-8a67-46f3-8511-d690dde8df4c" />
+
 
 </details>
 
@@ -586,7 +609,7 @@ As part of the Networkwalks Academy cybersecurity training program, I completed 
 |---|---|
 | 🎓 **Academy** | Networkwalks Academy |
 | 📚 **Program** | Cybersecurity |
-| 📅 **Assessment Date** | August 2026 |
+| 📅 **Assessment Date** | September 2026 |
 | 🧪 **Assessment Type** | Short Knowledge Quiz |
 | 📊 **Score** | **[29% 10/10]** |
 | ✅ **Result** | **Passed / Completed** |
