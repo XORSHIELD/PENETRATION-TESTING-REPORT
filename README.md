@@ -5,7 +5,7 @@
 ### 🔎 FOOTPRINTING & NETWORK SCANNING PHASES
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-NETWORKWALKS-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/WEEK%202-B082-6F42C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WEEK%202-B083-6F42C1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F59E0B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AUTHORIZED-YES-22C55E?style=for-the-badge" />
 
@@ -151,7 +151,7 @@ WhatWeb was used to fingerprint technologies exposed by the website.
 The observed results identified technologies including:
 
 ```text
-WordPress 7.0.4
+WordPress 7.1
 WP Download Manager 3.3.58
 ```
 
