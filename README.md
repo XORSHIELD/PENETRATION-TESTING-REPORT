@@ -233,7 +233,52 @@ DNS information can help create a broader understanding of an organization's pub
 
 ---
 
-# 🛡️ 4.2 Network Scanning with Zenmap
+# 🛡️ 4.2 GHDB (Google Hacking Database)
+
+GHDB was used to leverage advanced Google search operators (Google Dorks) to locate exposed and sensitive information**.
+
+The activity provided information relating to:
+
+- 10 live vulnerable cameras exposed on the internet
+- 10 publicly accessible mathematics PDF documents
+- Webcams and CCTV systems with weak or no authentication
+- Filetype-specific sensitive document  exposure
+- Open directory listing and misconfigured servers
+- The extent of publicly indexed information available through targeted search queries
+
+---
+
+# 🛡️ 4.3 Footprinting with Maltego
+
+Maltego was used to perform link analysis and visualize publicly available information associated with a target domain**.
+
+The activity provided information relating to:
+
+- Email addresses associated with the target domain
+- Domain-to-entity relationship and connections
+- Publicly exposed organizational information
+- Linked infrastructure and online presence
+- A graphical representation of the target's digital footprint
+- Relationships between people, domains, and services connected to the target
+
+---
+
+# 🛡️ 4.4 Footprinting & Reconnaissance with theHarvester
+
+theHarvester was used to gather publicly available information from open source (OSINT) associated with a target domain**.
+
+The activity provided information relating to:
+
+- Email addresses and employee information
+- Subdomains associated with the target domain
+- Hostnames and publicly exposed IP addresses
+- Information from search engines, Shodan, and certificate transparency logs
+- An overview of the target's externally visible attack surface
+- LinkedIn profiles and publicly employee data
+
+---
+
+# 🛡️ 4.5 Network Scanning with Zenmap
 
 The second practical activity focused on **network discovery using Zenmap**.
 
@@ -262,9 +307,11 @@ The scan was used to identify active devices on the local network.
 
 ```text
 10.0.0.1
+10.0.0.2
 10.0.0.4
-10.0.0.19
-10.0.0.5
+10.0.0.7
+10.0.0.14
+10.0.0.11
 ```
 
 The practical example also identified associated MAC addresses.
@@ -384,6 +431,9 @@ Through these practical exercises, I developed hands-on experience with:
 - 🧩 Web technology fingerprinting
 - 📡 DNS enumeration
 - 🛡️ WAF identification
+- 🔍 OSINT gathering with theHarvester
+- 🕸️ Link analysis and entity mapping with Maltego
+- 🎯 Google Dorking with GHDB
 - 🛰️ Network discovery
 - 🖥️ Host identification
 - 📍 IP and MAC address analysis
@@ -406,12 +456,16 @@ During the footprinting phase, I used multiple Kali Linux tools to collect and a
 I learned how:
 
 ```text
-WHOIS       → Domain information
-WhatWeb     → Web technology fingerprinting
-Nslookup    → DNS / IP resolution
-cURL        → HTTP header inspection
-Wafw00f     → WAF identification
-DNSRecon    → DNS enumeration
+WHOIS              → Domain information
+WhatWeb            → Web technology fingerprinting
+Nslookup           → DNS / IP resolution
+cURL               → HTTP header inspection
+Wafw00f            → WAF identification
+DNSRecon           → DNS enumeration
+GHDB               → Google Dorking for exposed information
+theHarvester       → OSINT gathering
+Maltego            → Link analysis and entity mapping
+
 ```
 
 During the network scanning phase, I used **Zenmap** to discover active hosts within my authorized local network environment and examine IP, MAC address, and topology information.
