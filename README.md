@@ -9,6 +9,39 @@
 <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F59E0B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AUTHORIZED-YES-22C55E?style=for-the-badge" />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.3-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Danjuma%20Yusuf%20Joseph-C00000?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Reconnaissance-404040?style=flat-square&labelColor=0070C0&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-404040?style=flat-square&labelColor=238F89&logo=googlesearchconsole&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/WHOIS-404040?style=flat-square&labelColor=C00000&logo=internetexplorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatWeb-404040?style=flat-square&labelColor=0070C0&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/NSLookup-404040?style=flat-square&labelColor=238F89&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/CURL-404040?style=flat-square&labelColor=E87500&logo=curl&logoColor=white" />
+  <img src="https://img.shields.io/badge/WAFW00F-404040?style=flat-square&labelColor=C00000&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNSRecon-404040?style=flat-square&labelColor=0070C0&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GHDB-404040?style=flat-square&labelColor=238F89&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maltego-404040?style=flat-square&labelColor=E87500&logo=maltego&logoColor=white" />
+  <img src="https://img.shields.io/badge/theHarvester-404040?style=flat-square&labelColor=C00000&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-404040?style=flat-square&labelColor=0070C0&logo=nmap&logoColor=white" />
+
+
+</p>
+
 <br>
 
 **W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS**
